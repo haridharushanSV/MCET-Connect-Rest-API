@@ -8,10 +8,7 @@ A REST api written in Django
 
 ## Installation
 * If you wish to run your own build, first ensure you have python globally installed in your computer. If not, you can get python [here](https://www.python.org").
-* After doing this, confirm that you have installed virtualenv globally as well. If not, run this:
-    ```bash
-        $ pip install virtualenv
-    ```
+
 * Then, Git clone this repo to your PC
     ```bash
         $ gh repo clone haridharushanSV/MCET-Connect-Rest-API
