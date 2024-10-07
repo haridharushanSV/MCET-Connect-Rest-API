@@ -14,7 +14,7 @@ A REST api written in Django
     ```
 * Then, Git clone this repo to your PC
     ```bash
-        $ gh repo clone haridharushanSV/SRMS-Connect-Backend
+        $ gh repo clone haridharushanSV/MCET-Connect-Rest-API
     ```
 
 * #### Dependencies
